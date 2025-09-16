@@ -3,7 +3,7 @@
 Dans votre application, avez-vous besoin qu'un objet notifie automatiquement d'autres objets quand son état change, sans que ces objets aient besoin de vérifier constamment ?
 
 Vous avez de la difficulté :
-- Avec du code qui sonder sans arrêt l'état d'un objet (polling)
+
 - Avec des performances dégradées à cause des vérifications répétées
 - À maintenir la synchronisation entre plusieurs composants
 - Avec un couplage fort entre les objets
