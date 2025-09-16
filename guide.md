@@ -18,16 +18,16 @@
 
 Cette section présente des problèmes courants en développement et les patrons de conception qui peuvent les résoudre.
 
-- [State (État)](state.md)
-- [Factory (Fabrique)](factory.md)
-- [Decorator (Décorateur)](decorator.md)
-- [Observer (Observateur)](observer.md)
-- [Adapter (Adaptateur)](adapter.md)
 - [Probleme A](problemeA.md)
 - [Probleme B](problemeB.md)
 - [Probleme C](problemeC.md)
 - [Probleme D](problemeD.md)
 - [Probleme E](problemeE.md)
+- [Probleme F](problemeF.md)
+- [Probleme G](problemeG.md)
+- [Probleme H](problemeH.md)
+- [Probleme I](problemeI.md)
+- [Probleme J](problemeJ.md)
 
 ---
 
